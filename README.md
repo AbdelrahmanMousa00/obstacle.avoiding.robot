@@ -1,4 +1,4 @@
-# Obstacle-avoiding-robot
+# Obstacle avoiding robot
 This project was made using an Arduino code for obstacle avoider robot using Ultrasonic sensor 
 
 # Hardware Tools Used: 
